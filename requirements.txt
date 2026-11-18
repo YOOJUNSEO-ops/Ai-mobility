@@ -1,0 +1,6 @@
+numpy
+pandas>=2.0
+matplotlib
+lightgbm>=4.0
+pyarrow
+huggingface_hub
